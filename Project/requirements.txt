@@ -1,0 +1,18 @@
+# Deep Learning & NLP
+torch
+transformers
+
+# Machine Learning Engine
+scikit-learn
+xgboost
+
+# Data Manipulation & Computation
+pandas
+numpy
+
+# Interactive Dashboard & Visualization
+streamlit
+plotly
+
+# File Handling (For Excel data ingestion)
+openpyxl
